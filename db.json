@@ -1,6 +1,8 @@
 [
-   {
+{
       "id":"10101609358",
+	"year":"2018",
+		"sales":80,
       "type":"IssuesEvent",
       "payload":{
          "action":"opened",
@@ -13,8 +15,11 @@
          }
       }
    },
-   {
+
+{
       "id":"10101609358",
+	"year":"2018",
+		"sales":80,
       "type":"IssuesEvent",
       "payload":{
          "action":"opened",
